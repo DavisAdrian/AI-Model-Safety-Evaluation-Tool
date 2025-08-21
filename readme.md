@@ -1,24 +1,25 @@
+
 ---
 
 # **🔐 Web Application Vulnerability Assessment of OWASP Juice Shop**
 
 > A comprehensive **web application vulnerability assessment** performed on **OWASP Juice Shop**, an intentionally vulnerable e-commerce platform, using industry-standard tools like **OWASP ZAP**, **Burp Suite**, and **Nikto**.
 >
-> This project identifies **real-world security flaws** mapped to the **OWASP Top 10**, demonstrates exploitation techniques, and provides **secure coding solutions** in **Node.js/TypeScript** to remediate each vulnerability. The assessment highlights how common security gaps — like **SQL Injection**, **Broken Access Control**, **Directory Traversal**, and **Business Logic Flaws** — can lead to severe business and data breaches if left unaddressed.
+>This project identifies **real-world security flaws** mapped to the **OWASP Top 10**, demonstrates exploitation techniques, and provides **secure coding solutions** in **Node.js/TypeScript** to remediate each vulnerability. The assessment highlights how common security gaps — like **SQL Injection**, **Broken Access Control**, **Directory Traversal**, and **Business Logic Flaws** — can lead to severe business and data breaches if left unaddressed.
 
 ---
 
 ## **📌 Project Files**
 
-* [Overview](#Overview)
-* [Objectives](#Objectives)
-* [Tools & Technologies](#tools--technologies)
-* [Vulnerabilities Demonstrated](#vulnerabilities-demonstrated)
-* [Secure Coding Fixes](#secure-coding-fixes)
-* [Project Files](#project-files)
-* [How to Run Juice Shop Locally](#how-to-run-juice-shop-locally)
-* [Team Members](#team-members)
-* [Screenshots](#screenshots)
+* [Overview](#overview-1)
+* [Objectives](#objectives-1)
+* [Tools & Technologies](#tools--technologies-1)
+* [Vulnerabilities Demonstrated](#vulnerabilities-demonstrated-1)
+* [Secure Coding Fixes](#secure-coding-fixes-1)
+* [Project Files](#project-files-1)
+* [How to Run Juice Shop Locally](#how-to-run-juice-shop-locally-1)
+* [Team Members](#team-members-1)
+* [Screenshots](#screenshots-1)
 
 ---
 
@@ -64,7 +65,7 @@ This project demonstrates a **complete security assessment lifecycle**:
 | Vulnerability             | OWASP Category          | Impact                              | Demo Location |
 | ------------------------- | ----------------------- | ------------------------------      | ------------- |
 | **SQL Injection**         | Injection               | Admin login bypass, data theft      | `/login`      |
-| **Broken Access Control** | IDOR                    | Access other users' shopping carts  | `/user/:id`   |
+| **Broken Access Control** | IDOR                    | Access other users’ shopping carts  | `/user/:id`   |
 | **Directory Traversal**   | Sensitive Data Exposure | Access confidential documents       | `/ftp/`       |
 | **Bully Chatbot**         | Business Logic Flaw     | Exploit discount system             |  `/chatbot`    |
 
