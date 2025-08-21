@@ -1,4 +1,3 @@
-
 ---
 
 # **🔐 Web Application Vulnerability Assessment of OWASP Juice Shop**
@@ -65,7 +64,7 @@ This project demonstrates a **complete security assessment lifecycle**:
 | Vulnerability             | OWASP Category          | Impact                              | Demo Location |
 | ------------------------- | ----------------------- | ------------------------------      | ------------- |
 | **SQL Injection**         | Injection               | Admin login bypass, data theft      | `/login`      |
-| **Broken Access Control** | IDOR                    | Access other users’ shopping carts  | `/user/:id`   |
+| **Broken Access Control** | IDOR                    | Access other users' shopping carts  | `/user/:id`   |
 | **Directory Traversal**   | Sensitive Data Exposure | Access confidential documents       | `/ftp/`       |
 | **Bully Chatbot**         | Business Logic Flaw     | Exploit discount system             |  `/chatbot`    |
 
