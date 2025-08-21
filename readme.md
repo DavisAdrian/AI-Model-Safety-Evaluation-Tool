@@ -11,15 +11,16 @@
 
 ## **📌 Project Files**
 
-* [Overview](#overview)
-* [Objectives](#objectives)
-* [Tools & Technologies](#tools--technologies)
-* [Vulnerabilities Demonstrated](#vulnerabilities-demonstrated)
-* [Secure Coding Fixes](#secure-coding-fixes)
-* [Project Files](#project-files)
-* [How to Run Juice Shop Locally](#how-to-run-juice-shop-locally)
-* [Team Members](#team-members)
-* [Screenshots](#screenshots)
+* [Overview](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-overview)
+* [Objectives](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-vulnerabilities-demonstrated)
+* [Tools & Technologies](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-tools--technologies)
+* [Vulnerabilities Demonstrated](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-vulnerabilities-demonstrated)
+* [Secure Coding Fixes](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-secure-coding-fixes)
+* [Project Files](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-project-files-1)
+* [How to Run Juice Shop Locally](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#%EF%B8%8F-how-to-run-juice-shop-locally)
+* [Team Members](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-team-members)
+* [Screenshots](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-screenshots-optional-but-highly-recommended)
+* [Key Takeaways](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-key-takeaways)
 
 ---
 
