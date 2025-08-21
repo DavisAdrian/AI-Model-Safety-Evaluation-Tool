@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Script Test</title>
+</head>
+<body>
+    <h1>Test Content</h1>
+    <p>This is some test content to see if the script works.</p>
+    
+    <h2>Your Original Script (Won't Work):</h2>
+    <button onclick="testOriginal()">Test Original Script</button>
+    
+    <h2>Fixed Script (Will Work):</h2>
+    <button onclick="testFixed()">Test Fixed Script</button>
+    
+    <h2>Reset:</h2>
+    <button onclick="reset()">Reset Styles</button>
+
+    <script>
+        function testOriginal() {
+            // Your original script - this won't work properly
+            document.body.style.background='linear-gradient(45deg, red, blue, green, yellow)';
+            document.querySelectorAll('*').forEach(el => el.style.color = 'white');
+        }
+        
+        function testFixed() {
+            // Fixed version - this will work
+            document.body.style.backgroundImage='linear-gradient(45deg, red, blue, green, yellow)';
+            document.querySelectorAll('*').forEach(el => el.style.color = 'white');
+        }
+        
+        function reset() {
+            document.body.style.background = '';
+            document.body.style.backgroundImage = '';
+            document.querySelectorAll('*').forEach(el => el.style.color = '');
+        }
+    </script>
+</body>
+</html>
