@@ -11,15 +11,15 @@
 
 ## **📌 Project Files**
 
-* [Overview](#overview-1)
-* [Objectives](#objectives-1)
-* [Tools & Technologies](#tools--technologies-1)
-* [Vulnerabilities Demonstrated](#vulnerabilities-demonstrated-1)
-* [Secure Coding Fixes](#secure-coding-fixes-1)
-* [Project Files](#project-files-1)
-* [How to Run Juice Shop Locally](#how-to-run-juice-shop-locally-1)
-* [Team Members](#team-members-1)
-* [Screenshots](#screenshots-1)
+* [Overview](#overview)
+* [Objectives](#objectives)
+* [Tools & Technologies](#tools--technologies)
+* [Vulnerabilities Demonstrated](#vulnerabilities-demonstrated)
+* [Secure Coding Fixes](#secure-coding-fixes)
+* [Project Files](#project-files)
+* [How to Run Juice Shop Locally](#how-to-run-juice-shop-locally)
+* [Team Members](#team-members)
+* [Screenshots](#screenshots)
 
 ---
 
