@@ -19,7 +19,6 @@
 * [Project Files](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-project-files-1)
 * [How to Run Juice Shop Locally](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#%EF%B8%8F-how-to-run-juice-shop-locally)
 * [Team Members](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-team-members)
-* [Screenshots](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-screenshots-optional-but-highly-recommended)
 * [Key Takeaways](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/readme.md#-key-takeaways)
 
 ---
@@ -81,16 +80,14 @@ Each vulnerability includes **insecure vs. secure code** examples in **TypeScrip
 * **Directory Traversal** → Restrict file paths & enforce authentication
 * **Bully Chatbot** → Add **rate-limiting & input validation**
 
-📂 Check out: [`code-snippets/insecure_vs_secure_examples.ts`](./code-snippets/insecure_vs_secure_examples.ts)
-
 ---
 
 ## **📂 Project Files**
 
-* 📄 [Final Report](./report/Capstone_Report.pdf)
-* 🛠️ [Secure Coding Review](./report/Secure_Coding_Review.pdf)
-* 🖼️ [Presentation Slides](./slides/Capstone_Presentation.pdf)
-* 🔍 [ZAP Scan Results](./findings/zap_scan_results.pdf)
+* 📄 [Final Report](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/TTPR%20Capstone%20Report.pdf)
+* 🛠️ [Secure Coding Review](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/secure%20coding%20Review/Security%20Fixes%20Summary.md)
+* 🖼️ [Presentation Slides](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/Capstone%20Project%20Presentation%20.pdf)
+* 🔍 [ZAP Scan Results](https://github.com/DavisAdrian/Owasp-Juice-shop-vulnerablilties-assessment/blob/main/Aiden's%20Final%20Capstone%20Report.pdf)
 
 ---
 
@@ -119,24 +116,7 @@ http://localhost:3000
 | ---------- | --------------------------------- |
 | **Adrian Davis** | Secure Coding & Remediation Lead  |
 | **Kairos Liang** | Vulnerability Scanning Specialist & Data Analytics |
-| **Aiden Yeung**          | Vulnerability Scanning Specialist & Impact Analysis|
-
----
-
-## **📸 Screenshots** *(Optional, but highly recommended)*
-
-Add screenshots of:
-
-* Vulnerability exploitation
-* Secure vs insecure code
-* ZAP/Burp scan results
-* Final Juice Shop interface
-
-Example:
-
-```markdown
-![SQL Injection Demo](./images/screenshots/sql-injection-demo.png)
-```
+| **Aiden Yeung**  | Vulnerability Scanning Specialist & Impact Analysis|
 
 ---
 
@@ -145,14 +125,6 @@ Example:
 * Security testing is critical to protecting sensitive data.
 * Automated tools + manual verification = **stronger coverage**.
 * Mapping vulnerabilities to **secure coding practices** bridges the gap between finding and fixing flaws.
-
----
-
-## **📢 Next Steps**
-
-* Upload your **reports, slides, and code snippets** to the repo.
-* Add a few **screenshots** to make the README visually appealing.
-* Pin the repo on GitHub for portfolio visibility.
 
 ---
 
